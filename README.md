@@ -11,13 +11,13 @@
 npm install -g gitbook-cli
 ```
 
-2.安装依赖
+2. 安装依赖
 
 ```bash
 gitbook install
 ```
 
-3.运行
+3. 运行
 ```bash
 D:\codes\docs\quick-guides>gitbook serve
 Live reload server started on port: 35729
@@ -27,7 +27,7 @@ Starting server ...
 Serving book on http://localhost:4000
 ```
 
-4.构建
+4. 构建
 ```
 gitbook build
 ```
