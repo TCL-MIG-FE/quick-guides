@@ -17,7 +17,7 @@ npm install -g gitbook-cli
 gitbook install
 ```
 
-3. 运行
+3.运行
 ```bash
 D:\codes\docs\quick-guides>gitbook serve
 Live reload server started on port: 35729
@@ -25,10 +25,9 @@ Press CTRL+C to quit ...
 
 Starting server ...
 Serving book on http://localhost:4000
-
 ```
 
-4. 构建
+4.构建
 ```
 gitbook build
 ```
