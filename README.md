@@ -32,4 +32,4 @@ Serving book on http://localhost:4000
 gitbook build
 ```
 
-[1]: http://tcl-mig-fe.github.io/javascript-guides/
+[1]: http://tcl-mig-fe.github.io/quick-guides/
