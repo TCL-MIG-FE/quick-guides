@@ -1,0 +1,51 @@
+{
+    "title": "MIG前端开发经验及技巧集锦",
+    "description": "MIG前端开发经验及技巧集锦",
+    "author": "flyingzl",
+    "generator": "site",
+    "language": "zh-hans",
+    "structure": {
+        "readme": "intro.md",
+        "summary": "summary.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "https://github.com/TCL-MIG-FE/quick-guides"
+        }
+    },
+    "plugins": [
+        "tbfed-pagefooter",
+        "include-codeblock",
+        "duoshuo",
+        "emphasize"
+    ],
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "quick-guides",
+            "theme": "default"
+        },
+        "github": {
+            "url": "https://github.com/TCL-MIG-FE/javascript-guides"
+        },
+
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        },
+
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy TCL 2016",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+
+    }
+}
