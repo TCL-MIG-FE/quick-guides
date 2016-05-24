@@ -15,7 +15,7 @@ GPS设备定位后，获取到的坐标叫做GPS坐标，一般就是经纬度�
 
 # 解决方法
 
-1. 通过google地图进行定位，通过百度地图展现
+- 通过google地图进行定位，通过百度地图展现
 
 ```javascript
 const convertorPoint = (lat, lng, callback) => {
@@ -29,7 +29,7 @@ const convertorPoint = (lat, lng, callback) => {
 }
 ```
 
-2. 通过高德或者腾讯地图进行定位，通过百度地图展现
+- 通过高德或者腾讯地图进行定位，通过百度地图展现
 
 ```javascript
 const convertorPoint = (lat, lng, callback) => {
@@ -43,6 +43,6 @@ const convertorPoint = (lat, lng, callback) => {
 }
 ```
 
-3.精度为`104.070625`，纬度为`30.54246`坐标转换前后效果
+- 精度为`104.070625`，纬度为`30.54246`坐标转换前后效果
 
 ![效果图](../imgs/traps-baidu-gps.png)
