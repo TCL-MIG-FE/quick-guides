@@ -7,4 +7,5 @@
 	* [如何提升npm下载速度](tips/npm-with-speed.md)
 	* [jQuery中如何提交JSON字符串](tips/jquery-post-with-json.md)
 * [坑的集合](traps.md)
-	* [JSON格式问题](traps/json-formatter.md)
+    * [百度地图定位问题](traps/baidu-gps.md)
+    * [JSON格式问题](traps/json-formatter.md)
